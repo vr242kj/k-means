@@ -21,11 +21,6 @@ Riešenie obsahuje  dve funkcie:
  
 compute_s – spočíta novy stred
  
-
- 
 Program funguje, kým sa centrá novej iterácie sa líši od starej, alebo kým nie je prekročený limit v 30 (dasa zmenit) iterácií. 
-Ukážka funkcionality programu
-Vstup:
- 
-Vystup:
+
  
