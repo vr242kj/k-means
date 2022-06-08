@@ -17,9 +17,9 @@ Popis algoritmu:
 Programovy modul
 Obmedzujúce podmienky - pre fungovanie programu je potrebne zadať na začatku počet bodov.
 Riešenie obsahuje  dve funkcie:
-сompute – spočíta euklidovskú vzdialenosť medzi bodmi v priestore.
+_сompute_ – spočíta euklidovskú vzdialenosť medzi bodmi v priestore.
  
-compute_s – spočíta novy stred
+_compute_s_ – spočíta novy stred
  
 Program funguje, kým sa centrá novej iterácie sa líši od starej, alebo kým nie je prekročený limit v 30 (dasa zmenit) iterácií. 
 
